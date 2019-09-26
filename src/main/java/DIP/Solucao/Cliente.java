@@ -1,7 +1,6 @@
 package DIP.Solucao;
 
 import DIP.Solucao.Interface.ICPFService;
-import SRP.Solucao.CPFService;
 
 import java.util.Date;
 
