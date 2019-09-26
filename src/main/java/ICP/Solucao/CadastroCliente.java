@@ -15,6 +15,6 @@ public class CadastroCliente implements ICadastroCliente {
     
     @Override
     public void EnviarEmail() {
-        // Enviar e-mail para o clienteg
+        // Enviar e-mail para o cliente
     }
 }
